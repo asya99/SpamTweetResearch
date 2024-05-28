@@ -6,6 +6,8 @@ Social networking platform Twitter is a prominent victim of spam. Spam can drown
 
 The tweet data I sourced contained a very extensive feature set. It included: account age, number of followers, number of followed, number of favorites on the tweet, number of lists added by the user, number of hashtags in the tweet, number of tweets sent by the user, number of characters in the tweet, etc.
 
+Algorithms used: Random Forest, Naive Bayes, K Nearest Neighbor, and a self-implemented K nearest neighbor graph.
+
 # Results:
 The most accurate algorithmic classifier for predicting spam was Random forest when n is set to 100, with an accuracy of .954. The least accurate algorithmic classifier was Naive Bayes, with an accuracy of .566. The most influential tweet features that indicate spam were 1) numbers of characters in a tweet and 2) numbers of hashtags in a tweet. 
 
