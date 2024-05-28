@@ -1,5 +1,5 @@
 # Spam Tweet Research
-Summary: Developed a network analysis prediction of highest spam indicators on Twitter using 10,000 tweets from Nsc.org, a leading research lab on cybersecurity. Trained and tested data using Naive Bayes, Random Forest, and KNN. Utilized Machine Learning toolkits (TensorFlow, keras) and Python.
+Developed a network analysis prediction of highest spam indicators on Twitter using 10,000 tweets from Nsc.org, a leading research lab on cybersecurity. Trained and tested data using Naive Bayes, Random Forest, and KNN. Utilized Machine Learning toolkits (TensorFlow, keras) and Python.
 
 # Intro: 
 Social networking platform Twitter is a prominent victim of spam. Spam can drown out important news, leading to misinformation, and is often the cause of malware and scams. My data was collected from Nsc.org, a research lab on cybersecurity. Their database contained 6 million tweets. 10,000 were randomly selected from the ‘continuous’ folder, meaning the tweets were sent in a continuous time frame. This was to optimize the running algorithms and for demonstration purposes.
